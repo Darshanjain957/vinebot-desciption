@@ -1,2 +1,2 @@
 # vinebot-desciption
-urdf files for the vinebot
+urdf files for the vinebot upadted by Darshan with the camera link
